@@ -18,4 +18,4 @@ npm install
 ```
 npm start
 ```
-
+4. Access the url http://localhost:3000/atm
