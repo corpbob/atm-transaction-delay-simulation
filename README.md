@@ -1,1 +1,21 @@
-This project is a simple API to generate fortune cookies using the fortune command.
+# Instructions
+
+1. Install node js in CentOS
+
+```
+curl --silent --location https://rpm.nodesource.com/setup_10.x | sudo bash -
+sudo yum -y install nodejs
+```
+
+2. Build the project
+
+```
+npm install
+```
+
+3. Launch
+
+```
+npm start
+```
+
